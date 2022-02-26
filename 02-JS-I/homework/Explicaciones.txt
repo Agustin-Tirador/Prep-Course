@@ -1,0 +1,23 @@
+EXPLICACIONES
+
+* Variables
+Son una manera de guardar algo. La identificamos con la abreviacion "var" y podemos ponerle un nombre para saber de que se trata, es decir: 'var nombre' (espacio entre var y el nombre).
+Le podemos dar un valor con el signo '=' entonces el valor que le damos a esa variable es lo que quede a la derecha del '=', por ejemplo: 'var nombre = miNombre'.
+
+* Strings
+Es uno de los tipos de datos que se pueden usar en el lenguaje.
+Pueden ser un grupo de caracteres (palabras y/o numeros) y se los define entre comillas (simples o dobles).
+
+* Funciones (argumentos, `return`)
+Son muy importantes ya que con ellas les damos funciones a las variables. Podemos calcular variables o modificarlas o hacer diferentes cosas con ellas.
+
+* Declaraciones `if`
+Es una condicionante para la verificar si nuestra funcion sigue ejecutando o deja de avanzar.
+Por ejemplo si queremos saber si alguien puede manejar un auto tiene que ser mayor de edad.
+Estos significa que si la edad es > a 18 entonces esa persona puede manejar.
+Si no es mayor a 18 no podra .
+
+* Valores booleanos (`true`, `false`)
+Son una formas mas de alimentar el codigo binario (0-1).
+En este caso con los valores 'true' y 'false'.
+Como en el ejemplo anterior podemos hacer que nuestra funcion nos siga 'true' o 'false' si la persona no es mayor de edad y por lo tanto no puede manjear un auto.
